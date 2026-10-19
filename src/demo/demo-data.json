@@ -1,0 +1,432 @@
+{
+ "categories": [
+  {
+   "id": "cat-beds",
+   "slug": "beds",
+   "name": {
+    "en": "Beds",
+    "mr": "पलंग (Beds)",
+    "hi": "पलंग (Beds)"
+   },
+   "type": "furniture",
+   "displayOrder": 1,
+   "isActive": true,
+   "iconName": "Bed"
+  },
+  {
+   "id": "cat-wardrobes",
+   "slug": "wardrobes",
+   "name": {
+    "en": "Wardrobes / Kapat",
+    "mr": "कपाट (Wardrobes / Kapat)",
+    "hi": "कपाट (अलमारी)"
+   },
+   "type": "furniture",
+   "displayOrder": 2,
+   "isActive": true,
+   "iconName": "Archive"
+  },
+  {
+   "id": "cat-dressing",
+   "slug": "dressing-tables",
+   "name": {
+    "en": "Dressing Tables",
+    "mr": "ड्रेसिंग टेबल",
+    "hi": "ड्रेसिंग टेबल"
+   },
+   "type": "furniture",
+   "displayOrder": 3,
+   "isActive": true,
+   "iconName": "Sparkles"
+  },
+  {
+   "id": "cat-rot-dressing",
+   "slug": "rotating-dressing-tables",
+   "name": {
+    "en": "Rotating Dressing Tables",
+    "mr": "रोटेटिंग ड्रेसिंग टेबल",
+    "hi": "रोटेटिंग ड्रेसिंग टेबल"
+   },
+   "type": "furniture",
+   "displayOrder": 4,
+   "isActive": true,
+   "iconName": "RefreshCw"
+  },
+  {
+   "id": "cat-counters",
+   "slug": "counters",
+   "name": {
+    "en": "Cash & Display Counters",
+    "mr": "काउंटर्स",
+    "hi": "काउंटर्स"
+   },
+   "type": "furniture",
+   "displayOrder": 5,
+   "isActive": true,
+   "iconName": "Layers"
+  },
+  {
+   "id": "cat-sofas",
+   "slug": "sofas",
+   "name": {
+    "en": "Sofas & Couches",
+    "mr": "सोफा सेट",
+    "hi": "सोफा सेट"
+   },
+   "type": "furniture",
+   "displayOrder": 6,
+   "isActive": true,
+   "iconName": "Armchair"
+  },
+  {
+   "id": "cat-chairs",
+   "slug": "chairs",
+   "name": {
+    "en": "Chairs & Seating",
+    "mr": "खुर्च्या",
+    "hi": "कुर्सियां"
+   },
+   "type": "furniture",
+   "displayOrder": 7,
+   "isActive": true,
+   "iconName": "CheckCircle"
+  },
+  {
+   "id": "cat-tables",
+   "slug": "tables",
+   "name": {
+    "en": "Dining & Center Tables",
+    "mr": "टेबल्स",
+    "hi": "टेबल्स"
+   },
+   "type": "furniture",
+   "displayOrder": 8,
+   "isActive": true,
+   "iconName": "Square"
+  },
+  {
+   "id": "cat-other-furniture",
+   "slug": "other-furniture",
+   "name": {
+    "en": "Other Furniture",
+    "mr": "इतर फर्निचर",
+    "hi": "अन्य फर्नीचर"
+   },
+   "type": "furniture",
+   "displayOrder": 9,
+   "isActive": true,
+   "iconName": "Package"
+  },
+  {
+   "id": "cat-tvs",
+   "slug": "televisions",
+   "name": {
+    "en": "Televisions & Smart TVs",
+    "mr": "टेलिव्हिजन / टीव्ही",
+    "hi": "टेलीविज़न / स्मार्ट टीवी"
+   },
+   "type": "electronics",
+   "displayOrder": 10,
+   "isActive": true,
+   "iconName": "Tv"
+  },
+  {
+   "id": "cat-refrigerators",
+   "slug": "refrigerators",
+   "name": {
+    "en": "Refrigerators & Fridges",
+    "mr": "रेफ्रिजरेटर्स / फ्रीज",
+    "hi": "रेफ्रिजरेटर / फ्रिज"
+   },
+   "type": "electronics",
+   "displayOrder": 11,
+   "isActive": true,
+   "iconName": "Box"
+  },
+  {
+   "id": "cat-fans",
+   "slug": "fans",
+   "name": {
+    "en": "Ceiling & Table Fans",
+    "mr": "पंख्यांचे प्रकार",
+    "hi": "पंखे (Fans)"
+   },
+   "type": "electronics",
+   "displayOrder": 12,
+   "isActive": true,
+   "iconName": "Wind"
+  },
+  {
+   "id": "cat-other-electronics",
+   "slug": "other-electronics",
+   "name": {
+    "en": "Other Electronics",
+    "mr": "इतर इलेक्ट्रॉनिक्स",
+    "hi": "अन्य इलेक्ट्रॉनिक्स"
+   },
+   "type": "electronics",
+   "displayOrder": 13,
+   "isActive": true,
+   "iconName": "Cpu"
+  }
+ ],
+ "products": [
+  {
+   "id": "prod-001",
+   "slug": "royal-teakwood-king-bed",
+   "sku": "PFE-BED-TK01",
+   "categoryId": "cat-beds",
+   "categorySlug": "beds",
+   "name": {
+    "en": "Royal Solid Teakwood King Bed with Storage",
+    "mr": "शाही सागवान किंग साइज पलंग (स्टोरेजसह)",
+    "hi": "शाही सागवान किंग साइज बेड (स्टोरेज सहित)"
+   },
+   "description": {
+    "en": "Handcrafted solid teakwood king bed featuring a natural grain finish, hydraulic box storage, and heavy-duty frame designed for lifelong durability in Indian homes.",
+    "mr": "नैसर्गिक फिनिश, हायड्रॉलिक बॉक्स स्टोरेज आणि मजबूत फ्रेमसह बनवलेला हस्तनिर्मित सागवान पलंग.",
+    "hi": "प्राकृतिक फिनिश, हाइड्रोलिक बॉक्स स्टोरेज और मजबूत फ्रेम से निर्मित हाथ से तराशा हुआ सागवान पलंग।"
+   },
+   "pricePaise": 3850000,
+   "mrpPaise": 4500000,
+   "offerPricePaise": 3650000,
+   "offerStart": "2026-01-01",
+   "offerEnd": "2026-12-31",
+   "stock": 4,
+   "lowStockThreshold": 2,
+   "stockStatus": "in_stock",
+   "dimensions": "72 x 78 inches (King Size)",
+   "material": "Seasoned Grade-A Teakwood & Waterproof Plywood Box",
+   "images": [
+    "/illustrations/bed-luxury.svg"
+   ],
+   "isPublished": true,
+   "isFeatured": true,
+   "isNewArrival": false,
+   "isDemoSample": true,
+   "createdAt": "2026-01-10T10:00:00Z",
+   "updatedAt": "2026-01-10T10:00:00Z"
+  },
+  {
+   "id": "prod-002",
+   "slug": "triveni-steel-wardrobe-kapat",
+   "sku": "PFE-KAPAT-ST02",
+   "categoryId": "cat-wardrobes",
+   "categorySlug": "wardrobes",
+   "name": {
+    "en": "Triveni Heavy Duty 3-Door Steel Kapat",
+    "mr": "त्रिवेणी हेवी ड्युटी ३-दरवाजा स्टील कपाट",
+    "hi": "त्रिवेणी हेवी ड्यूटी 3-डोर स्टील कपाट"
+   },
+   "description": {
+    "en": "High-gauge cold rolled steel almirah kapat with internal locker, double dressing mirror, secret drawer, and anti-rust epoxy powder coating.",
+    "mr": "मजबूत स्टील कपाट, अंतर्गत सुरक्षित लॉकर, ड्रेसिंग आरसा, सिक्रेट ड्रॉवर आणि गंजरोधक कोटिंगसह.",
+    "hi": "मजबूत स्टील कपाट, आंतरिक सुरक्षित लॉकर, ड्रेसिंग आईना, गुप्त दराज और जंगरोधी कोटिंग सहित।"
+   },
+   "pricePaise": 1850000,
+   "mrpPaise": 2200000,
+   "offerPricePaise": null,
+   "stock": 8,
+   "lowStockThreshold": 3,
+   "stockStatus": "in_stock",
+   "dimensions": "78 x 54 x 22 inches",
+   "material": "Heavy Gauge Cold Rolled Steel with Powder Coating",
+   "images": [
+    "/illustrations/wardrobe-kapat.svg"
+   ],
+   "isPublished": true,
+   "isFeatured": true,
+   "isNewArrival": false,
+   "isDemoSample": true,
+   "createdAt": "2026-01-12T10:00:00Z",
+   "updatedAt": "2026-01-12T10:00:00Z"
+  },
+  {
+   "id": "prod-003",
+   "slug": "360-rotating-vanity-dressing-table",
+   "sku": "PFE-DRS-ROT03",
+   "categoryId": "cat-rot-dressing",
+   "categorySlug": "rotating-dressing-tables",
+   "name": {
+    "en": "360-Degree Rotating Vanity Dressing Table",
+    "mr": "३६० अंश फिरणारे रोटेटिंग ड्रेसिंग टेबल",
+    "hi": "360 डिग्री रोटेटिंग ड्रेसिंग टेबल"
+   },
+   "description": {
+    "en": "Multi-functional space-saving vanity unit with smooth 360-degree rotation, full-length bevelled mirror, LED contour frame, and hidden jewellery shelves.",
+    "mr": "३६० अंश फिरणारे आधुनिक ड्रेसिंग टेबल, पूर्ण आकाराचा आरसा, दागिने व सौंदर्यप्रसाधनांसाठी छुपे कप्पे.",
+    "hi": "360 डिग्री घूमने वाला आधुनिक ड्रेसिंग टेबल, फुल लेंथ आईना और आभूषणों के लिए गुप्त अलमारियां।"
+   },
+   "pricePaise": 1450000,
+   "mrpPaise": 1750000,
+   "offerPricePaise": null,
+   "stock": 2,
+   "lowStockThreshold": 2,
+   "stockStatus": "limited_stock",
+   "dimensions": "70 x 20 x 20 inches",
+   "material": "Engineered High-Density Teak Finish Board with Swivel Bearing",
+   "images": [
+    "/illustrations/dressing-table.svg"
+   ],
+   "isPublished": true,
+   "isFeatured": true,
+   "isNewArrival": true,
+   "isDemoSample": true,
+   "createdAt": "2026-02-01T10:00:00Z",
+   "updatedAt": "2026-02-01T10:00:00Z"
+  },
+  {
+   "id": "prod-004",
+   "slug": "smart-led-tv-4k-ultra-hd",
+   "sku": "PFE-EL-TV55",
+   "categoryId": "cat-tvs",
+   "categorySlug": "televisions",
+   "name": {
+    "en": "Branded 55-Inch 4K Ultra HD Smart Google TV",
+    "mr": "५५-इंच ४K अल्ट्रा एचडी स्मार्ट गुगल टीव्ही",
+    "hi": "55-इंच 4K अल्ट्रा एचडी स्मार्ट गूगल टीवी"
+   },
+   "description": {
+    "en": "Cinematic 55-inch 4K HDR display with Dolby Audio, Google Assistant voice remote, bezel-less design, and authorized manufacturer warranty.",
+    "mr": "डॉलबी ऑडिओ, गुगल असिस्टंट, बेझल-लेस स्क्रीन आणि अधिकृत वॉरंटीसह ५५-इंच ४K स्मार्ट टीव्ही.",
+    "hi": "डॉल्बी ऑडियो, गूगल असिस्टेंट, बेजल-लेस स्क्रीन और आधिकारिक वारंटी के साथ 55-इंच 4K स्मार्ट टीवी।"
+   },
+   "pricePaise": null,
+   "mrpPaise": null,
+   "offerPricePaise": null,
+   "stock": 6,
+   "lowStockThreshold": 2,
+   "stockStatus": "contact_us",
+   "dimensions": "55 Inch Diagonal Screen",
+   "material": "Frameless Bezel, IPS Panel & Metallic Stand",
+   "images": [
+    "/illustrations/smart-tv.svg"
+   ],
+   "isPublished": true,
+   "isFeatured": true,
+   "isNewArrival": true,
+   "isDemoSample": true,
+   "createdAt": "2026-02-05T10:00:00Z",
+   "updatedAt": "2026-02-05T10:00:00Z"
+  },
+  {
+   "id": "prod-005",
+   "slug": "double-door-inverter-refrigerator",
+   "sku": "PFE-EL-REF265",
+   "categoryId": "cat-refrigerators",
+   "categorySlug": "refrigerators",
+   "name": {
+    "en": "Double Door Frost-Free Inverter Refrigerator (265L)",
+    "mr": "डबल डोअर फ्रॉस्ट-फ्री इन्व्हर्टर रेफ्रिजरेटर (२६५ लिटर)",
+    "hi": "डबल डोर फ्रॉस्ट-फ्री इन्वर्टर रेफ्रिजरेटर (265 लीटर)"
+   },
+   "description": {
+    "en": "Energy-efficient digital inverter double door refrigerator with smart connect, toughened glass shelves, and quick-chill technology.",
+    "mr": "कमी वीज वापर, डिजिटल इन्व्हर्टर तंत्रज्ञान आणि मजबूत काचेच्या शेल्फ्ससह २६५ लिटर फ्रीज.",
+    "hi": "कम बिजली खपत, डिजिटल इन्वर्टर तकनीक और मजबूत ग्लास अलमारियों के साथ 265 लीटर फ्रिज।"
+   },
+   "pricePaise": null,
+   "mrpPaise": null,
+   "offerPricePaise": null,
+   "stock": 4,
+   "lowStockThreshold": 2,
+   "stockStatus": "in_stock",
+   "dimensions": "62 x 22 x 26 inches (265 Litres)",
+   "material": "Stainless Steel Metallic Finish",
+   "images": [
+    "/illustrations/refrigerator.svg"
+   ],
+   "isPublished": true,
+   "isFeatured": false,
+   "isNewArrival": true,
+   "isDemoSample": true,
+   "createdAt": "2026-02-10T10:00:00Z",
+   "updatedAt": "2026-02-10T10:00:00Z"
+  },
+  {
+   "id": "prod-006",
+   "slug": "l-shape-luxury-fabric-sofa",
+   "sku": "PFE-SOF-L06",
+   "categoryId": "cat-sofas",
+   "categorySlug": "sofas",
+   "name": {
+    "en": "L-Shaped 6-Seater Modular Fabric Sofa Set",
+    "mr": "एल-आकाराचा ६-आसनी लक्झरी सोफा सेट",
+    "hi": "एल-आकार का 6-सीटर लग्जरी सोफा सेट"
+   },
+   "description": {
+    "en": "Comfortable high-density foam seating with stain-resistant textured fabric, solid neem wood structure, and 4 matching throw cushions.",
+    "mr": "उच्च-घनता फोम, डाग-प्रतिरोधक फॅब्रिक आणि मजबूत लाकडी संरचनेसह ६-आसनी एल-शेप सोफा सेट.",
+    "hi": "हाई-डेंसिटी फोम, दाग-प्रतिरोधी फैब्रिक और मजबूत लकड़ी के फ्रेम के साथ 6-सीटर सोफा सेट।"
+   },
+   "pricePaise": 3200000,
+   "mrpPaise": 3800000,
+   "offerPricePaise": 2990000,
+   "offerStart": "2026-01-01",
+   "offerEnd": "2026-12-31",
+   "stock": 3,
+   "lowStockThreshold": 1,
+   "stockStatus": "in_stock",
+   "dimensions": "108 x 78 inches",
+   "material": "Solid Wood Inner Frame, Premium Jute-Cotton Fabric & 32-Density Foam",
+   "images": [
+    "/illustrations/sofa.svg"
+   ],
+   "isPublished": true,
+   "isFeatured": true,
+   "isNewArrival": false,
+   "isDemoSample": true,
+   "createdAt": "2026-02-12T10:00:00Z",
+   "updatedAt": "2026-02-12T10:00:00Z"
+  }
+ ],
+ "offers": [
+  {
+   "id": "offer-showroom-welcome",
+   "slug": "jalna-showroom-festive-saving",
+   "title": {
+    "en": "Direct Showroom Value Package",
+    "mr": "थेट शोरूम विशेष सवलत",
+    "hi": "सीधे शोरूम विशेष छूट"
+   },
+   "description": {
+    "en": "Special value pricing on bedroom combo sets (Teak Bed + 3-Door Kapat). Enquire in-store for bundled delivery arrangements.",
+    "mr": "बेडरूम कॉम्बो सेटवर (सागवान पलंग + ३-दरवाजा कपाट) विशेष दर. मोफत वितरणासाठी शोरूममध्ये चौकशी करा.",
+    "hi": "बेडरूम कॉम्बो सेट (सागवान बेड + 3-डोर कपाट) पर विशेष दर। डिलीवरी व्यवस्था के लिए शोरूम में संपर्क करें।"
+   },
+   "discountPercentage": 10,
+   "startDate": "2026-01-01",
+   "endDate": "2026-12-31",
+   "conditions": {
+    "en": "Applicable on select furniture combinations. Final invoice confirmed at Jalna showroom.",
+    "mr": "निवडक फर्निचर कॉम्बोवर लागू. अंतिम दर जालन्यातील शोरूममध्ये निश्चित केला जाईल.",
+    "hi": "चुनिंदा फर्नीचर संयोजनों पर लागू। अंतिम दर जालना शोरूम में निश्चित किया जाएगा।"
+   },
+   "isActive": true
+  }
+ ],
+ "storeSettings": {
+  "businessName": "Poonam Furniture And Electronic",
+  "phone": "+91 9373265743",
+  "email": "Poonamfurniture@gmail.com",
+  "address": "Poonam Wholesale Wala, Naveen Munda Pati, near Mage Kushi Park, Jalna, Maharashtra 431203, India.",
+  "directionsUrl": "https://www.google.com/maps/dir/19.8346659,75.8816345/Poonam+wholesale+wala,+Naveen+Munda+Pati,+mage+kushi+park,+Jalna,+Maharashtra+431203/@19.8806715,75.8921459,21z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bda519d7681bbe9:0x85ec0920be4fd079!2m2!1d75.8922864!2d19.8807853?entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D",
+  "openingHours": "Mon - Sun: 9:30 AM to 9:00 PM (Configured by Showroom)",
+  "supportedLanguages": [
+   "en",
+   "mr",
+   "hi"
+  ],
+  "deliveryPolicy": "Prompt showroom dispatch across Jalna municipal limits and nearby talukas upon confirmation.",
+  "pickupPolicy": "Immediate pickup available directly from Poonam Wholesale Wala during store hours.",
+  "lowStockDefaultThreshold": 2,
+  "googlePlaceId": "",
+  "googlePlacesEnabled": false,
+  "announcementText": {
+   "en": "Welcome to Poonam Furniture And Electronic, Jalna — Direct Showroom Wholesale Rates & Complete Home Solutions!",
+   "mr": "पूनम फर्निचर अँड इलेक्ट्रॉनिक, जालना मध्ये आपले स्वागत आहे — थेट शोरूम होलसेल दर आणि दर्जेदार सेवा!",
+   "hi": "पूनम फर्नीचर एंड इलेक्ट्रॉनिक, जालना में आपका स्वागत है — सीधे शोरूम थोक दरें और विश्वसनीय सेवा!"
+  },
+  "announcementActive": true
+ }
+}
